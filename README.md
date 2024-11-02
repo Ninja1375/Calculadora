@@ -1,3 +1,7 @@
+**Veja o projeto ao vivo**
+
+**[Calculadora](https://ninja1375.github.io/Calculadora/)
+
 Esta é uma calculadora simples com design inspirado no YouTube, desenvolvida em HTML, CSS e JavaScript. Ela apresenta uma interface amigável com botões básicos de operações matemáticas e uma tela de exibição de resultados. Com esta calculadora, é possível realizar operações aritméticas comuns, como adição, subtração, multiplicação, divisão e cálculo de porcentagem.
 
 ## Funcionalidades ##
